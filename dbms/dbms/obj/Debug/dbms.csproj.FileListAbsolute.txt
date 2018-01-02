@@ -1,0 +1,11 @@
+D:\бд\app\dbms\dbms\bin\Debug\dbms.exe.config
+D:\бд\app\dbms\dbms\bin\Debug\dbms.exe
+D:\бд\app\dbms\dbms\bin\Debug\dbms.pdb
+D:\бд\app\dbms\dbms\obj\Debug\dbms.csprojResolveAssemblyReference.cache
+D:\бд\app\dbms\dbms\obj\Debug\dbms.Form1.resources
+D:\бд\app\dbms\dbms\obj\Debug\dbms.Properties.Resources.resources
+D:\бд\app\dbms\dbms\obj\Debug\dbms.csproj.GenerateResource.Cache
+D:\бд\app\dbms\dbms\obj\Debug\dbms.exe
+D:\бд\app\dbms\dbms\obj\Debug\dbms.pdb
+D:\бд\app\dbms\dbms\obj\Debug\dbms.Form2.resources
+D:\бд\app\dbms\dbms\obj\Debug\dbms.Form3.resources

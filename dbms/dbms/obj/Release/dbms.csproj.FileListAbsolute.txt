@@ -1,0 +1,10 @@
+D:\бд\app\dbms\dbms\bin\Release\dbms.exe.config
+D:\бд\app\dbms\dbms\bin\Release\dbms.exe
+D:\бд\app\dbms\dbms\bin\Release\dbms.pdb
+D:\бд\app\dbms\dbms\obj\Release\dbms.Form1.resources
+D:\бд\app\dbms\dbms\obj\Release\dbms.Form2.resources
+D:\бд\app\dbms\dbms\obj\Release\dbms.Form3.resources
+D:\бд\app\dbms\dbms\obj\Release\dbms.Properties.Resources.resources
+D:\бд\app\dbms\dbms\obj\Release\dbms.csproj.GenerateResource.Cache
+D:\бд\app\dbms\dbms\obj\Release\dbms.exe
+D:\бд\app\dbms\dbms\obj\Release\dbms.pdb
